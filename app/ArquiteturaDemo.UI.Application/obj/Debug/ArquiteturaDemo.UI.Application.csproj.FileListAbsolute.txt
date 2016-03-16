@@ -1,0 +1,10 @@
+C:\Users\helio\documents\visual studio 2015\Projects\ArquiteturaDemo\app\ArquiteturaDemo.UI.Application\bin\Debug\ArquiteturaDemo.UI.Application.dll
+C:\Users\helio\documents\visual studio 2015\Projects\ArquiteturaDemo\app\ArquiteturaDemo.UI.Application\bin\Debug\ArquiteturaDemo.UI.Application.pdb
+C:\Users\helio\documents\visual studio 2015\Projects\ArquiteturaDemo\app\ArquiteturaDemo.UI.Application\bin\Debug\ArquiteturaDemo.Domain.dll
+C:\Users\helio\documents\visual studio 2015\Projects\ArquiteturaDemo\app\ArquiteturaDemo.UI.Application\bin\Debug\ArquiteturaDemo.Domain.pdb
+C:\Users\helio\documents\visual studio 2015\Projects\ArquiteturaDemo\app\ArquiteturaDemo.UI.Application\obj\Debug\ArquiteturaDemo.UI.Application.csprojResolveAssemblyReference.cache
+C:\Users\helio\documents\visual studio 2015\Projects\ArquiteturaDemo\app\ArquiteturaDemo.UI.Application\obj\Debug\ArquiteturaDemo.UI.Application.dll
+C:\Users\helio\documents\visual studio 2015\Projects\ArquiteturaDemo\app\ArquiteturaDemo.UI.Application\obj\Debug\ArquiteturaDemo.UI.Application.pdb
+C:\Users\helio\documents\visual studio 2015\Projects\ArquiteturaDemo\app\ArquiteturaDemo.UI.Application\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\helio\documents\visual studio 2015\Projects\ArquiteturaDemo\app\ArquiteturaDemo.UI.Application\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\helio\documents\visual studio 2015\Projects\ArquiteturaDemo\app\ArquiteturaDemo.UI.Application\bin\Debug\Microsoft.Practices.ServiceLocation.xml

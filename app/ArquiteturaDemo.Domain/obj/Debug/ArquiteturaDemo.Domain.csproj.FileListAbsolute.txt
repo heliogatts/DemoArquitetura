@@ -1,0 +1,5 @@
+C:\Users\helio\documents\visual studio 2015\Projects\ArquiteturaDemo\app\ArquiteturaDemo.Domain\bin\Debug\ArquiteturaDemo.Domain.dll
+C:\Users\helio\documents\visual studio 2015\Projects\ArquiteturaDemo\app\ArquiteturaDemo.Domain\bin\Debug\ArquiteturaDemo.Domain.pdb
+C:\Users\helio\documents\visual studio 2015\Projects\ArquiteturaDemo\app\ArquiteturaDemo.Domain\obj\Debug\ArquiteturaDemo.Domain.csprojResolveAssemblyReference.cache
+C:\Users\helio\documents\visual studio 2015\Projects\ArquiteturaDemo\app\ArquiteturaDemo.Domain\obj\Debug\ArquiteturaDemo.Domain.dll
+C:\Users\helio\documents\visual studio 2015\Projects\ArquiteturaDemo\app\ArquiteturaDemo.Domain\obj\Debug\ArquiteturaDemo.Domain.pdb
